@@ -1,39 +1,46 @@
-# Code of Conduct
+# Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
-We pledge to make participation in our project a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We as contributors and maintainers pledge to make participation in our project and community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
-Examples of positive behavior include:
-- Using welcoming and inclusive language.
-- Respecting different viewpoints and experiences.
-- Accepting constructive criticism gracefully.
-- Focusing on what is best for the community.
+Examples of behavior that contributes to a positive environment include:
 
-Unacceptable behavior includes harassment, trolling, insulting comments, and other unprofessional conduct.
+- Using welcoming and inclusive language.
+- Being respectful of differing viewpoints and experiences.
+- Gracefully accepting constructive criticism.
+- Focusing on what is best for the community.
+- Showing empathy towards other community members.
+
+Examples of unacceptable behavior include:
+
+- Harassment, trolling, insults, or personal attacks.
+- Unwelcome sexual language or attention.
+- Publishing others' private information without permission.
+- Other conduct considered inappropriate in a professional setting.
 
 ## Enforcement Responsibilities
 
-Project maintainers are responsible for clarifying and enforcing our standards of acceptable behavior and may take appropriate corrective action in response to unacceptable behavior.
+Project maintainers are responsible for clarifying the standards of acceptable behavior and taking appropriate and fair corrective action in response to unacceptable behavior.
+
+Maintainers may remove, edit, or reject contributions that do not follow this Code of Conduct. They may temporarily or permanently ban contributors for behavior that is threatening, offensive, or harmful.
 
 ## Scope
 
-This Code of Conduct applies within all project spaces and when an individual is officially representing the project or its community.
+This Code of Conduct applies within project spaces and in public spaces when an individual is representing the project or its community, including through official email addresses, social media accounts, or events.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers. All complaints will be reviewed and investigated fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers through the repository's issue tracker. All complaints will be reviewed and investigated promptly and fairly. The privacy of anyone reporting an incident will be respected.
+
+Maintainers who fail to enforce this Code of Conduct in good faith may face temporary or permanent consequences.
 
 ## Enforcement Guidelines
 
-Project maintainers will follow these guidelines when determining consequences:
-1. **Correction:** A private warning for minor violations.
-2. **Warning:** A warning with consequences for continued behavior.
-3. **Temporary Ban:** A temporary restriction from community interaction.
-4. **Permanent Ban:** A permanent ban for repeated or serious violations.
+Project maintainers will consider the nature, severity, and impact of each violation when determining appropriate consequences. Actions may include a warning, temporary suspension, or permanent ban from project participation.
 
 ## Attribution
 
-This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+This Code of Conduct is adapted from the Contributor Covenant, available at https://www.contributor-covenant.org/.
